@@ -1,4 +1,4 @@
-name: Postman API Tests
+name: Postman API Tests For Task 2
 
 on:
   push:
